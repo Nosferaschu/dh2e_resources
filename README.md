@@ -31,8 +31,8 @@ First the player just needs to get clips for his weapon and that's it. The clip 
 The Quantity is used to display the rounds in the clip so if a user reloads you can eddt the clip to the right amount of rounds in the not empty clip.
 If a clip is empty, just delete it, and if its a power cell for a lasgun, just empty it and you know you have an empty power cell you need to recharge.
 If a player has the clips with him just add 3 clips to his inventory.<br>
-The weight and availability is always the same: 10% weight of the gun and one step easyer to get. (Core Rulebook says so)
-<p>![stuff](https://user-images.githubusercontent.com/84198011/118664797-0f348180-b7f2-11eb-9951-25d46e94b465.PNG)</p>
+The weight and availability is always the same: 10% weight of the gun and one step easyer to get. (Core Rulebook says so)<p>
+![stuff](https://user-images.githubusercontent.com/84198011/118664797-0f348180-b7f2-11eb-9951-25d46e94b465.PNG)
 
 ### Cybernetics: 27
 ### Drugs & Consumables: 13
@@ -46,12 +46,12 @@ Some things were added in the special row oder in the notes (f.e. dmg+sb*2), jus
 Yes i know that evrything ist Las and displayed as meele. This is not on my end, but i will fix it as soon as it is fixed in the game.
 But this does not hinder the game it is just display.
 ### Armor: 27 in 5 Trees
-![armor](https://user-images.githubusercontent.com/84198011/118667691-8408bb00-b7f4-11eb-87b4-2833c5439beb.PNG)<br>
-<p>![stuff2](https://user-images.githubusercontent.com/84198011/118667942-b4505980-b7f4-11eb-96af-bcb9966b490b.PNG)</p>
+![armor](https://user-images.githubusercontent.com/84198011/118667691-8408bb00-b7f4-11eb-87b4-2833c5439beb.PNG)<p>
+![stuff2](https://user-images.githubusercontent.com/84198011/118667942-b4505980-b7f4-11eb-96af-bcb9966b490b.PNG)
 ### Tools: 37 + 1 torch
 The torch is added, because i edited the torchlight mod from PhilippeK to funktion with dark heresy and i needed a 3rd ligh source.
 ### Weapon & Armor Modifications: 42
-<p>![stuff3](https://user-images.githubusercontent.com/84198011/118668717-6a1ba800-b7f5-11eb-8a92-47896e9b681b.PNG)</p>
+![stuff3](https://user-images.githubusercontent.com/84198011/118668717-6a1ba800-b7f5-11eb-8a92-47896e9b681b.PNG)
 ### Traits: 41
 ### Aptitudes: 19
 Yes I know the game has them (the only ones) but i did it with the books discription and without it woul not be complete.

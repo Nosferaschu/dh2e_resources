@@ -55,7 +55,7 @@ The torch is added, because i edited the torchlight mod from PhilippeK to funkti
 ### Traits: 41
 ### Aptitudes: 19
 Yes I know the game has them (the only ones) but i did it with the books discription and without it woul not be complete.
-### Special Abilities: 34 in 3 Trees
+### Special Abilities: 41 in 3 Trees
 ![special](https://user-images.githubusercontent.com/84198011/118669077-bd8df600-b7f5-11eb-9339-72e4cb4ae43e.PNG)<br>
 I think the background boni are ment to be the special abilities, only thing i could think of, could be wrong =)
 

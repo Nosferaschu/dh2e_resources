@@ -1,16 +1,16 @@
 # Dark Heresy 2nd Edition resource pack
 
-We switched to foundry and i am kind of an perfectionist so i added 750 entrys from 4 rulebooks to the game and one torch =)
+We switched to foundry and i am kind of an perfectionist so i added 750 entrys from 4 rulebooks to the game and one torch =)<p>
 
-The entrys are all items so this is an Compendium archive.
-The items are from the 4 books:
--Core Rulebook
--Enemies Beyond
--Enemies Within
--Enemies Without
+The entrys are all items so this is an Compendium archive.<br>
+The items are from the 4 books:<br>
+-Core Rulebook<br>
+-Enemies Beyond<br>
+-Enemies Within<br>
+-Enemies Without<br>
 
-This took me a lot of work and i just wanted to share it =)
-Maybe someone will play it now, because he does not have to do it.
+This took me a lot of work and i just wanted to share it =)<br>
+Maybe someone will play it now, because he does not have to do it.<br>
 
 ## What is included:
 ### Psychic Powers: 73 Powers in 8 trees

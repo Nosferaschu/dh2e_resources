@@ -11,7 +11,7 @@ The items are from the 4 books:<br>
 
 This took me a lot of work and i just wanted to share it =)<br>
 Maybe someone will play it now, because he does not have to do it.<br>
-
+The Folders you see is how i implemented it in our game, you have to redo it yourself.
 ## What is included:
 ### Psychic Powers: 73 Powers in 8 trees
 ![psychicpower](https://user-images.githubusercontent.com/84198011/118661294-448ba000-b7ef-11eb-9108-bc531517112b.PNG)<br>

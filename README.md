@@ -1,6 +1,6 @@
 # Dark Heresy 2nd Edition resource pack
 
-We switched to foundry and i am kind of an perfectionist so i added 750 entrys from 4 rulebooks to the game and one torch =)<p>
+We switched to foundry and i am kind of an perfectionist so i added 757 entrys from 4 rulebooks to the game and one torch =)<p>
 
 The entrys are all items so this is an Compendium archive.<br>
 The items are from the 4 books:<br>

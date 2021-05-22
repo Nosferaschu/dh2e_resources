@@ -1,6 +1,6 @@
 # Dark Heresy 2nd Edition resource pack
 
-We switched to foundry and i am kind of an perfectionist so i added 757 entrys from 4 rulebooks to the game and one torch =)<p>
+We switched to foundry and i am kind of an perfectionist so i added over 750 entrys from 4 rulebooks and we created some for ourselfs =)<p>
 
 The entrys are all items so this is an Compendium archive.<br>
 The items are from the 4 books:<br>
@@ -61,7 +61,7 @@ I think the background boni are ment to be the special abilities, only thing i c
 
 And that is it. If you have suggestions, better discriptions or even better Images/Icons i could use, let me know.
 
-All the items used are thought of by Fantasy Flight Games and Games Workshop, exept the torch and some short discriptions.
-You still need the Rule books for rollable tables critical injuries and the rules, so buy them!
-If providing this package for you gives me troubles it will be deleted asap, i do this just so more can enjoy this awse peace of art in the best syfy usinvere i ever heard of and never wanna miss, though i hope it does not com reaelity =D
+Most of the items used are thought of by Fantasy Flight Games and Games Workshop.
+You still need the Rule books for rollable tables, critical injuries, Game Mechanics and the rules, so buy them you can't play the game without them!
+If providing this package for you gives me troubles it will be deleted asap, i do this just so more can enjoy this awesome peace of art, in the best syfy usinvere i ever heard of and never wanna miss, though i hope it does not com reaelity =D
 

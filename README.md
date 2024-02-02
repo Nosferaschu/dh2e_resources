@@ -1,3 +1,6 @@
+This is a fork of https://github.com/Nosferaschu/dh2e_resources dedicated to add Foundry 9 and 11 compatibility and fix some errors.
+Thank Nosferaschu for his work.
+
 # Dark Heresy 2nd Edition resource pack
 
 We switched to foundry and i am kind of an perfectionist so i added over 750 entrys from 4 rulebooks and we created some for ourselfs =)<p>

@@ -5,7 +5,7 @@
 	"author": "Nosferaschu",
 	"version": "0.8.0",
 	"manifest": "https://raw.githubusercontent.com/Nosferaschu/dh2e_resources/module.json",
-  "download": "https://github.com/Nosferaschu/dh2e_resources/raw/dh2e_resources.zip",
+  "download": "https://github.com/Nosferaschu/dh2e_resources/raw/main/dh2e_resources.zip",
   "compatibility": {
     "minimum": "0.8.6",
     "verified": "11"
